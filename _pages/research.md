@@ -23,12 +23,8 @@ header:
   Brewery waste treatment procedure in Heineken Lanka Pvt. Ltd. was observed and analyzed to investigate the existing treatment facilities. Besides, new improvable methods were suggested to the treatment system and possible difficulties were addressed.
   
 
-### Publications (Published/Accepted)
+### Publications
 
-- D.Y.L. Ranasinghe, S. Herath, H.M.H.K. Weerasooriya, E.M.M.B Ekanayake, G.M.R.I Godaliyadda, H.M.V.R. Herath, M.P.B. Ekanayake, **Convolutional Autoencoder for Blind Hyperspectral Image Unmixing** 2020 15th Conference on Industrial and Information Systems (ICIIS) (accepted) [Preprint](https://arxiv.org/abs/2011.09420)
-
+- N.K.L.C. Rupasinghe, S.M.A.E. Senanayake, K.G.N. Nanayakkara, **Development of an Adsorbent Material to Remove Fluoride from Water ** 11th International Conference on Sustainable Built Environment (ICSBE) 2020. Kandy, Sri Lanka. [Paper](/assets/docs/publications/icbe2020.pdf)
   
-### Presentations
-
-- D.Y.L. Ranasinghe, S. Herath, H.M.H.K. Weerasooriya, E.M.M.B Ekanayake, G.M.R.I Godaliyadda, H.M.V.R. Herath, M.P.B. Ekanayake, **Convolutional Autoencoder for Blind Hyperspectral Image Unmixing** 2020 15th Conference on Industrial and Information Systems (ICIIS) (accepted) (*Presented through Google meet*) [presentation](/assets/presentations/iciis_2020.pdf)
 
