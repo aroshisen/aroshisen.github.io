@@ -12,24 +12,24 @@ header:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/finalday.jpg" alt="">
   <figcaption>  final day as an undergrad.</figcaption>
 </figure> 
-I'm a temporary teaching instructor at Faculty of Engineering, University of Peradeniya. I conduct tutorial classes for first year Engineering Students.
+I'm a temporary instructor at Department of Civil Engineering, Faculty of Engineering, University of Peradeniya.
 
 ### About my research
 
-My research interests are on signal processing and machine learning. Read more about my research [here](/research/).
+My research interests are on Environmental Engineering. Read more about my research [here](/research/).
 
 ### Education
 
 -   Bachelor of Science (Electrical and Electronic Engineering) <br />
-	GPA 4.0/4.0 Top of the batch(/423) [Transcript](/assets/docs/Transcript.pdf) <br />
+	GPA 3.85/4.0  [Transcript](/assets/docs/Transcript.pdf) <br />
     University of Peradeniya, Sri Lanka (2015 - 2020)
 	
 -	G.C.E. Advanced Level (Mathematics, Physics, and Chemistry)	<br />
-	Ranked in the TOP 20 overall in the country	<br />
-	Kingswood College, Sri Lanka (2013-2014)
+	Mahamaya College, Sri Lanka (2013-2014) <br />
+	[Result Sheet](/assets/docs/AL.pdf)
 
 -	English Language Proficiency <br />
-	IELTS Overall  8.0 Listening  9.0 Reading  8.5 Writing  6.5 Speaking  7.0 <br />
+	IELTS Overall  7.5 Listening  8.5 Reading  7.0 Writing  6.0 Speaking  8.0 <br />
 	[Result Sheet](/assets/docs/ielts.pdf)
 	
 
