@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Aroshi Senanayake"
-  avatar           : "/assets/images/bio-photo.png"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Civil Engineering graduate interested in Environmental Engineering."
   location         : "Kandy, Sri Lanka"
   email            : #"slh.1995@gmail.com"
@@ -111,15 +111,15 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aroshi-senanayake/?originalSubdomain=lk"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      #url: "https://github.com/aroshisen"
     - label: "Research Gate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Aroshi_Senanayake"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      #url: "https://scholar.google.com/citations?hl=en&user=fyXzUD8AAAAJ&view_op=list_works&gmla=AJsN-F7fsZj2fv-m8AuFoWaJie4XHvUw2ANg8xUeDcWAFa57S3_oZgGrPVBywz-BNGbnCM8kwpcX-1FaioMtKW_-bb-ymhDajuNje_qX8CgrbhsPTP0DOEo"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/profile.php?id=100007438548616"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/aroshi_senanayake/?hl=en"
 
 # Site Footer
 footer:
