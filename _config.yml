@@ -96,7 +96,7 @@ author:
   name             : "Aroshi Senanayake"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Civil Engineering graduate interested in Environmental Engineering."
-  location         : "Kandy, Sri Lanka"
+  location         : #"Kandy, Sri Lanka"
   email            : #"slh.1995@gmail.com"
   links:
     - label: "Email"
