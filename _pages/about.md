@@ -20,7 +20,7 @@ My research interests are on Environmental Engineering. Read more about my resea
 
 ### Education
 
--   Bachelor of Science (Electrical and Electronic Engineering) <br />
+-   Bachelor of Science (Civil Engineering) <br />
 	GPA 3.85/4.0  [Transcript](/assets/docs/Transcript.pdf) <br />
     University of Peradeniya, Sri Lanka (2015 - 2020)
 	
