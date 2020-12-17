@@ -27,4 +27,7 @@ header:
 
 - N.K.L.C. Rupasinghe, S.M.A.E. Senanayake, K.G.N. Nanayakkara, **Development of an Adsorbent Material to Remove Fluoride from Water ** 11th International Conference on Sustainable Built Environment (ICSBE) 2020. Kandy, Sri Lanka. [Paper](/assets/publications/icbe2020.pdf)
   
+### Publications
 
+- **Development of an Adsorbent Material to Remove Fluoride from Water ** at 11th International Conference on Sustainable Built Environment (ICSBE) 2020 through Zoom. [Presentation](/assets/presentations/ICSBE_2020.pdf)
+ 
