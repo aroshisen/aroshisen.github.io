@@ -24,9 +24,6 @@ My research interests are on Environmental Engineering. Read more about my resea
 	GPA 3.85/4.0  [Transcript](/assets/docs/Transcript.pdf) <br />
     University of Peradeniya, Sri Lanka (2015 - 2020)
 	
--	G.C.E. Advanced Level (Mathematics, Physics, and Chemistry)	<br />
-	Mahamaya College, Sri Lanka (2013-2014) <br />
-	[Result Sheet](/assets/docs/AL.pdf)
 
 -	English Language Proficiency <br />
 	IELTS Overall  7.5 Listening  8.5 Reading  7.0 Writing  6.0 Speaking  8.0 <br />
