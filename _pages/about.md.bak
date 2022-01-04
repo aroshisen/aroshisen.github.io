@@ -32,8 +32,8 @@ My research interests are on Environmental Engineering. Read more about my resea
 ### A bit about myself 
 
 <figure style="width: 25%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/makeup.jpg" alt="">
-  <figcaption>Making Up at a Drama</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Research_Group.jpg" alt="">
+  <figcaption>Research Group</figcaption>
 </figure> 
 
 My passion for engineering started during the kindergarten when I was fascinated by the underlying mysteries of the natural phenomena that people encounter every day. My dream of becoming an Engineer became true when I was selected to the most most prestigious state universities of Sri Lanka, The University of Peradeniya.
