@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Aroshi Senanayake"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "MASc. Student in Civil Engineering at University of British Columbia."
-  location         : "Vancouver,Canada"
+  bio              : "Civil Engineering graduate interested in Environmental Engineering."
+  location         : #"Kandy, Sri Lanka"
   email            : #"slh.1995@gmail.com"
   links:
     - label: "Email"
