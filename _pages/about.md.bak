@@ -12,7 +12,7 @@ header:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/intern.jpg" alt="">
   <figcaption>  during internship</figcaption>
 </figure> 
-I'm a graduate research assistant at Department of Civil Engineering, Faculty of Engineering, University of British Columbia, Canada.
+I'm a graduate research assistant at Department of Civil Engineering, Faculty of Applied Science, University of British Columbia, Canada. I work under the supervision of [Dr. Jongho Lee](https://leegroup.civil.ubc.ca/).
 
 ### About my research
 
@@ -21,17 +21,12 @@ My research interests are on Environmental Engineering. Read more about my resea
 ### Education
 
 - 	Master of Science (Civil Engineering) <br />
-	Current GPA 4.00/4.00 <br />
 	University of British Columbia, Canada (2021-2023)
 	
 -   Bachelor of Science (Civil Engineering) <br />
 	GPA 3.85/4.0  [Transcript](/assets/docs/Transcript.pdf) <br />
     University of Peradeniya, Sri Lanka (2015 - 2020)
 	
-
--	English Language Proficiency <br />
-	IELTS Overall  7.5 Listening  8.5 Reading  7.0 Writing  6.0 Speaking  8.0 <br />
-	[Result Sheet](/assets/docs/ielts.pdf)
 	
 
 ### A bit about myself 
