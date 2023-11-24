@@ -10,7 +10,7 @@ header:
 
 <figure style="width: 25%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/intern.jpg" alt="">
-  <figcaption>  during internship</figcaption>
+  <figcaption>  During internship</figcaption>
 </figure> 
 I'm a graduate research assistant at Department of Civil Engineering, Faculty of Applied Science, University of British Columbia, Canada. I work under the supervision of [Dr. Jongho Lee](https://leegroup.civil.ubc.ca/).
 
