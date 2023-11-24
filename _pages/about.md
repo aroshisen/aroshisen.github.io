@@ -12,7 +12,7 @@ header:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/intern.jpg" alt="">
   <figcaption>  During internship</figcaption>
 </figure> 
-I'm a graduate research assistant at Department of Civil Engineering, Faculty of Applied Science, University of British Columbia, Canada. I work under the supervision of [Dr. Jongho Lee](https://leegroup.civil.ubc.ca/).
+I recently graduated with a Master's from Department of Civil Engineering, Faculty of Applied Science, University of British Columbia, Canada. Prior to graduation I worked under the supervision of [Dr. Jongho Lee](https://leegroup.civil.ubc.ca/).
 
 ### About my research
 
@@ -21,7 +21,7 @@ My research interests are on Environmental Engineering. Read more about my resea
 ### Education
 
 - 	Master of Science (Civil Engineering) <br />
-	GPA 4.0/4.0
+	GPA 4.0/4.0 <br />
 	University of British Columbia, Canada (2021-2023)
 	
 -   Bachelor of Science (Civil Engineering) <br />
